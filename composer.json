@@ -14,7 +14,7 @@
         "illuminate/support": "5.*",
         "illuminate/cache": "5.*",
         "illuminate/config": "5.*",
-        "smarty/smarty": "3.*@stable"
+        "smarty/smarty": "3.1.13"
     },
     "autoload": {
         "psr-0": {
